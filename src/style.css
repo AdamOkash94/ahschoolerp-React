@@ -32,6 +32,8 @@
   --dl-space-space-fiveunits: 80px;
   --dl-space-space-fourunits: 64px;
   --dl-space-space-threeunits: 48px;
+  --dl-color-project_primary-400: rgba(21, 34, 89, 1);
+  --dl-color-project_primary-500: rgba(17, 28, 74, 1);
   --dl-space-space-oneandhalfunits: 24px;
 }
 .button {
